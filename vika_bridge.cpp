@@ -63,6 +63,7 @@ signed main()
     // freopen("test_inp.txt", "r", stdin);
     cin >> test;
     while (test--)
+    "DKLKLD",
         solve();
     return 0;
 }
